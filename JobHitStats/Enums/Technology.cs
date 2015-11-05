@@ -1,0 +1,34 @@
+﻿namespace JobHitStats
+{
+    enum Technology
+    {
+        Abap,
+        Assembler,
+        CPlusPlus,
+        CSharp,
+        Cobol,
+        Fortran,
+        Java,
+        JavaScript,
+        Matlab,
+        ObjectiveC,
+        Pascal,
+        Perl,
+        Php,
+        PowerShell,
+        Python,
+        Ruby,
+        Scala,
+        //VisualBasic,
+        Html,
+        Css,
+        Sql,
+        Xml,
+        Json,
+        AngularJS,
+        BackboneJS,
+        Bootstrap,
+        SharePoint,
+        Sitecore
+    }
+}
