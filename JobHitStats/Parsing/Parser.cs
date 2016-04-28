@@ -10,7 +10,7 @@ namespace JobHitStats
 
     internal static class Parser
     {
-        private const string ProfesiaJobOffersXPath = @"//dd[@class='first active space-on-phones']";
+        private const string ProfesiaJobOffersXPath = @"//ul[@role='tablist']//li[@class='active']";
 
         private const string CareersStackOverflowJobOffersXPath = @"//div[@id='index-hed']//h2";
 
